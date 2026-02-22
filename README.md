@@ -1,15 +1,45 @@
+# 👋 Hi, I'm Manikandan S
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manirevathi404@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Spring+Boot+%26+Flutter+Enthusiast;Passionate+about+Clean+Code" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stevekalix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stevekalix&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌐 Let's Connect
+<div align="center">
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:manirevathi404@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manikandan-s-133179364/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://portfolio-version-3-ecru.vercel.app/)
+</div>
+
+## 💻 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html5,css3,javascript,dart,flutter,springboot,mysql,python,numpy,pandas,figma,canva,netlify,vercel,vite" />
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=stevekalix&theme=dark&hide_border=false"/>
+</div>
+
+## 🚀 Currently Working On
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stevekalix&color=ED8B00&style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stevekalix&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophy" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stevekalix&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=stevekalix&icon=0&color=6?style=for-the-badge" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <small>✨ Proudly created with ❤️ using GitHub Profile README Generator</small>
+</div>
