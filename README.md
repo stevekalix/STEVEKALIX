@@ -6,14 +6,11 @@
 </div>
 
 ## 🌐 Connect With Me
-<div align="center">
-  
-  **📧 Email:** manirevathi404@gmail.com  
-  **💼 LinkedIn:** [Manikandan S](https://www.linkedin.com/in/manikandan-s-133179364/)  
-  **🌐 Portfolio:** [portfolio-version-3-ecru.vercel.app](https://portfolio-version-3-ecru.vercel.app/)  
-  **🐱 GitHub:** [stevekalix](https://github.com/stevekalix)
 
-</div>
+**📧 Email:** manirevathi404@gmail.com  
+**💼 LinkedIn:** [Manikandan S](https://www.linkedin.com/in/manikandan-s-133179364/)  
+**🌐 Portfolio:** [portfolio-version-3-ecru.vercel.app](https://portfolio-version-3-ecru.vercel.app/)  
+**🐱 GitHub:** [stevekalix](https://github.com/stevekalix)
 
 ## 💻 Tech Stack
 <div align="center">
