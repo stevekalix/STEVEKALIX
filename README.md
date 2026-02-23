@@ -117,11 +117,18 @@ Engineered cloud-native application with advanced DevOps practices:
 
 ---
 
-## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+## 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&layout=compact&theme=radical)
+---
+
+## 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=stevekalix&theme=radical)
 
