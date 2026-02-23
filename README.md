@@ -1,4 +1,3 @@
-&lt;div align="center"&gt;
 
 # Manikandan S
 ### Aspiring DevOps Engineer | Spring Boot & Microservices Specialist
