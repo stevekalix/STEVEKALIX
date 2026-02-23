@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Deployment+Pipelines;Cloud-Native+Architecture+Design;DevOps+Best+Practices+Advocate)](https://git.io/typing-svg)
 
-&lt;/div&gt;
 
 ---
 
