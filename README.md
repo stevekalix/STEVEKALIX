@@ -21,28 +21,26 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 
 | Category | Technologies |
 |:---|:---|
-| **Backend** | Java, Spring Boot, Spring Cloud, Python, FastAPI |
-| **Frontend** | JavaScript, HTML5, CSS3, Flutter, Dart |
-| **Architecture** | Microservices, RESTful APIs, Event-Driven Architecture, API Gateway |
+| **Backend** | Java, Spring Boot, Spring Cloud, Python |
+| **Frontend** | JS, HTML5, CSS3, Flutter, Dart |
+| **Architecture** | Microservices, RESTful APIs, API Gateway |
 
 ### DevOps & Cloud Infrastructure
 
 | Category | Technologies |
 |:---|:---|
-| **Containerization** | Docker, Kubernetes, Helm, Containerd |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, ArgoCD |
-| **IaC** | Terraform, Ansible, Pulumi, AWS CloudFormation |
+| **Containerization** | Docker, Kubernetes, Containerd |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
+| **IaC** | Terraform, Ansible, AWS CloudFormation |
 | **Cloud Platforms** | AWS (EC2, EKS, S3, Lambda), Google Cloud Platform, Azure |
-| **Version Control** | Git, GitHub, GitLab, Bitbucket |
+| **Version Control** | Git, GitHub |
 
 ### Data & Monitoring
 
 | Category | Technologies |
 |:---|:---|
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch |
-| **Messaging** | Apache Kafka, RabbitMQ, AWS SQS |
-| **Monitoring** | Prometheus, Grafana, ELK Stack, Jaeger, Datadog |
-| **Logging** | Fluentd, Logstash, Loki |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Messaging** | RabbitMQ, AWS SQS |
 
 ---
 
