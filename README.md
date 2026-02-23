@@ -20,7 +20,6 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 ## Technical Proficiencies
 
 ### Development & Frameworks
-&lt;div align="center"&gt;
 
 | Category | Technologies |
 |:---|:---|
@@ -28,10 +27,7 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 | **Frontend** | JavaScript, HTML5, CSS3, Flutter, Dart |
 | **Architecture** | Microservices, RESTful APIs, Event-Driven Architecture, API Gateway |
 
-&lt;/div&gt;
-
 ### DevOps & Cloud Infrastructure
-&lt;div align="center"&gt;
 
 | Category | Technologies |
 |:---|:---|
@@ -41,10 +37,7 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 | **Cloud Platforms** | AWS (EC2, EKS, S3, Lambda), Google Cloud Platform, Azure |
 | **Version Control** | Git, GitHub, GitLab, Bitbucket |
 
-&lt;/div&gt;
-
 ### Data & Monitoring
-&lt;div align="center"&gt;
 
 | Category | Technologies |
 |:---|:---|
@@ -53,13 +46,9 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 | **Monitoring** | Prometheus, Grafana, ELK Stack, Jaeger, Datadog |
 | **Logging** | Fluentd, Logstash, Loki |
 
-&lt;/div&gt;
-
 ---
 
 ## Professional Development
-
-&lt;div align="center"&gt;
 
 | Certification | Provider | Status | Expected Completion |
 |:---|:---|:---:|:---:|
@@ -68,13 +57,9 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 | Docker Certified Associate | Docker, Inc. | 📋 Planned | Q4 2025 |
 | HashiCorp Terraform Associate | HashiCorp | 📋 Planned | Q4 2025 |
 
-&lt;/div&gt;
-
 ---
 
 ## Engineering Focus Areas
-
-&lt;div align="center"&gt;
 
 | Focus Area | Key Technologies | Proficiency |
 |:---|:---|:---:|
@@ -84,8 +69,6 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 | **Cloud Platforms** | AWS, GCP, Azure | ██████░░░░ 60% |
 | **Observability** | Prometheus, Grafana, ELK Stack | ████░░░░░░ 40% |
 | **Microservices Security** | OAuth2, JWT, Service Mesh | █████░░░░░ 50% |
-
-&lt;/div&gt;
 
 ---
 
