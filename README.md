@@ -90,6 +90,7 @@
         }
     </style>
 </head>
+
 <body>
 
 <header>
@@ -102,8 +103,10 @@
     <section>
         <h2>Professional Summary</h2>
         <p>
-            Computer Science graduate transitioning into <span class="highlight">DevOps Engineering</span> 
-            with strong expertise in <span class="highlight">Spring Boot</span> and 
+            Computer Science graduate transitioning into 
+            <span class="highlight">DevOps Engineering</span> 
+            with strong expertise in 
+            <span class="highlight">Spring Boot</span> and 
             <span class="highlight">Microservices Architecture</span>. 
             Experienced in building CI/CD pipelines, Infrastructure as Code, and 
             deploying scalable cloud-native systems.
@@ -118,7 +121,7 @@
                 <ul>
                     <li>Java, Python</li>
                     <li>Spring Boot, Spring Cloud, FastAPI</li>
-                    <li>Microservices, REST APIs, Event-Driven Systems</li>
+                    <li>Microservices, REST APIs</li>
                 </ul>
             </div>
 
