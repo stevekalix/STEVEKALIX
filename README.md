@@ -118,7 +118,6 @@ Engineered cloud-native application with advanced DevOps practices:
 ---
 
 ## GitHub Analytics
-# 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
