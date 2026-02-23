@@ -118,71 +118,49 @@ Engineered cloud-native application with advanced DevOps practices:
 ---
 
 ## GitHub Analytics
+# 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-&lt;div align="center"&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td align="center" width="50%"&gt;
-      &lt;img src="https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=FFFFFF" alt="GitHub Stats" /&gt;
-    &lt;/td&gt;
-    &lt;td align="center" width="50%"&gt;
-      &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=FFFFFF" alt="Top Languages" /&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&layout=compact&theme=radical)
 
-&lt;img src="https://streak-stats.demolab.com?user=stevekalix&theme=radical&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00" alt="GitHub Streak" /&gt;
-
-&lt;/div&gt;
+![GitHub Streak](https://streak-stats.demolab.com?user=stevekalix&theme=radical)
 
 ---
 
-## Contribution Activity
+## 📊 Contribution Activity
 
-&lt;div align="center"&gt;
-
-&lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=stevekalix&theme=react-dark&hide_border=true&bg_color=0D1117&color=ED8B00&line=ED8B00&point=FFFFFF" alt="Activity Graph" /&gt;
-
-&lt;/div&gt;
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stevekalix&theme=react-dark)
 
 ---
 
-## Professional Engagement
-
-&lt;div align="center"&gt;
+## 🤝 Professional Engagement
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-s-133179364/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED8B00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-version-3-ecru.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manirevathi404@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stevekalix)
 
-&lt;/div&gt;
+---
+
+## 🧠 Technical Philosophy
+
+> *"DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support."*  
+> — **Patrick Debois**
 
 ---
 
-## Technical Philosophy
+### ⚙ Core Principles
 
-&gt; *"DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support."*  
-&gt; — **Patrick Debois**, Founder of DevOps
-
-&lt;div align="center"&gt;
-
-**`Infrastructure as Code`** • **`Continuous Integration`** • **`Continuous Delivery`** • **`Microservices`** • **`Observability`**
-
-&lt;/div&gt;
+`Infrastructure as Code` • `Continuous Integration` • `Continuous Delivery` • `Microservices` • `Observability`
 
 ---
 
-&lt;div align="center"&gt;
+![Profile Views](https://komarev.com/ghpvc/?username=stevekalix&color=orange&style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=stevekalix&color=ED8B00&style=for-the-badge)
-![Visitors](https://visitcount.itsvg.in/api?id=stevekalix&icon=5&color=6)
+---
 
-&lt;/div&gt;
-
-&lt;div align="center"&gt;
-
-**Open for DevOps Engineering Opportunities | Collaboration | Open Source Contributions**
+### 🚀 Open for:
+DevOps Engineering Opportunities • Collaboration • Open Source Contributions  
 
 *Building resilient infrastructure, one pipeline at a time.*
