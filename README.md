@@ -1,9 +1,11 @@
+<div align="center">
 
 # Manikandan S
 ### Aspiring DevOps Engineer | Spring Boot & Microservices Specialist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Building+Scalable+Infrastructure;Automating+Deployment+Pipelines;Cloud-Native+Architecture+Design;DevOps+Best+Practices+Advocate)](https://git.io/typing-svg)
 
+</div>
 
 ---
 
@@ -21,26 +23,28 @@ Results-driven Computer Science student with a strong foundation in **Spring Boo
 
 | Category | Technologies |
 |:---|:---|
-| **Backend** | Java, Spring Boot, Spring Cloud, Python |
-| **Frontend** | JS, HTML5, CSS3, Flutter, Dart |
-| **Architecture** | Microservices, RESTful APIs, API Gateway |
+| **Backend** | Java, Spring Boot, Spring Cloud, Python, FastAPI |
+| **Frontend** | JavaScript, HTML5, CSS3, Flutter, Dart |
+| **Architecture** | Microservices, RESTful APIs, Event-Driven Architecture, API Gateway |
 
 ### DevOps & Cloud Infrastructure
 
 | Category | Technologies |
 |:---|:---|
-| **Containerization** | Docker, Kubernetes, Containerd |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
-| **IaC** | Terraform, Ansible, AWS CloudFormation |
+| **Containerization** | Docker, Kubernetes, Helm, Containerd |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, ArgoCD |
+| **IaC** | Terraform, Ansible, Pulumi, AWS CloudFormation |
 | **Cloud Platforms** | AWS (EC2, EKS, S3, Lambda), Google Cloud Platform, Azure |
-| **Version Control** | Git, GitHub |
+| **Version Control** | Git, GitHub, GitLab, Bitbucket |
 
 ### Data & Monitoring
 
 | Category | Technologies |
 |:---|:---|
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Messaging** | RabbitMQ, AWS SQS |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **Messaging** | Apache Kafka, RabbitMQ, AWS SQS |
+| **Monitoring** | Prometheus, Grafana, ELK Stack, Jaeger, Datadog |
+| **Logging** | Fluentd, Logstash, Loki |
 
 ---
 
@@ -116,55 +120,74 @@ Engineered cloud-native application with advanced DevOps practices:
 ---
 
 
-## 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=stevekalix&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=FFFFFF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevekalix&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=FFFFFF" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=stevekalix&theme=radical&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stevekalix&theme=react-dark&hide_border=true&bg_color=0D1117&color=ED8B00&line=ED8B00&point=FFFFFF" alt="Activity Graph" />
+
+</div>
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=stevekalix&theme=radical)
+## Professional Engagement
 
----
-
-## 📊 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stevekalix&theme=react-dark)
-
----
-
-## 🤝 Professional Engagement
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-s-133179364/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED8B00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-version-3-ecru.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manirevathi404@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stevekalix)
 
+</div>
+
 ---
 
-## 🧠 Technical Philosophy
+## Technical Philosophy
 
 > *"DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support."*  
-> — **Patrick Debois**
+> — **Patrick Debois**, Founder of DevOps
+
+<div align="center">
+
+**`Infrastructure as Code`** • **`Continuous Integration`** • **`Continuous Delivery`** • **`Microservices`** • **`Observability`**
+
+</div>
 
 ---
 
-### ⚙ Core Principles
+<div align="center">
 
-`Infrastructure as Code` • `Continuous Integration` • `Continuous Delivery` • `Microservices` • `Observability`
+![Profile Views](https://komarev.com/ghpvc/?username=stevekalix&color=ED8B00&style=for-the-badge)
+![Visitors](https://visitcount.itsvg.in/api?id=stevekalix&icon=5&color=6)
 
----
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=stevekalix&color=orange&style=for-the-badge)
+<div align="center">
 
----
-
-### 🚀 Open for:
-DevOps Engineering Opportunities • Collaboration • Open Source Contributions  
+**Open for DevOps Engineering Opportunities | Collaboration | Open Source Contributions**
 
 *Building resilient infrastructure, one pipeline at a time.*
+
+</div>
